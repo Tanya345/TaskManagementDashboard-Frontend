@@ -1,0 +1,24 @@
+.Login-register-btn{
+  padding:23px 23px;
+  border-radius:17px;
+  text-transform: capitalize;
+  margin-left: 20px;
+  /* px: '16px' */
+  color:red
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
